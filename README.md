@@ -48,15 +48,6 @@ Workflow
         Comparison of clinical features between endotypes
         Statistical testing (Kruskal-Wallis, Chi-square)
 
-Results
-
-The analysis identifies distinct molecular endotypes of sepsis with:
-
-    Different mortality rates
-    Unique gene expression signatures
-    Distinct enriched biological pathways
-    Clinical phenotype associations
-
 Usage
 
 The script is designed to be run in R environment with all required packages installed. Dataset-specific paths and parameters may need to be adjusted before execution.
