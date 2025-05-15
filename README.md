@@ -1,4 +1,3 @@
-Sepsis Molecular Endotype Analysis
 Overview
 
 This repository contains R code for the analysis of gene expression data to identify molecular endotypes in sepsis patients. The analysis combines data from multiple public datasets, performs batch correction, unsupervised clustering, and develops a molecular classifier to predict patient outcomes.
