@@ -51,6 +51,3 @@ Workflow
 Usage
 
 The script is designed to be run in R environment with all required packages installed. Dataset-specific paths and parameters may need to be adjusted before execution.
-Data Sources
-
-The analysis incorporates data from multiple Gene Expression Omnibus (GEO) datasets:
