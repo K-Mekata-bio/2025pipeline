@@ -40,7 +40,7 @@ Workflow
         Multinomial model development
         Cross-validation for performance assessment
     External Validation
-        Preprocessing of microarray data (GSE236713)
+        Preprocessing of microarray data
         Application of the gene classifier
         Cluster analysis in validation cohort
         Comparison of mortality outcomes
