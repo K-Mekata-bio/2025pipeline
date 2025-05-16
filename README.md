@@ -4,7 +4,7 @@ This repository contains R code for the analysis of gene expression data to iden
 
 Features
 
-    Data integration across multiple gene expression datasets (RNA-seq and microarray)
+    Data integration across multiple gene expression datasets (RNA-seq)
     Batch effect correction using ComBat-seq
     Unsupervised consensus clustering to identify patient endotypes
     Differential gene expression analysis between endotypes
